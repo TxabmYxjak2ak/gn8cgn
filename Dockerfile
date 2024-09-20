@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/nodejs:main
+FROM docker.io/clarencebowman/fcaubc:latest
